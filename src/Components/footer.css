@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  position: -webkit-sticky;
+  bottom: 0;
+}
+.copyright {
+  position: absolute;
+  right: 0;
+}
+.creator {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  color: rgb(14, 23, 24);
+}
